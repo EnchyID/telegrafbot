@@ -12,6 +12,6 @@
   "author": "FrogasQ",
   "license": "ISC",
   "dependencies": {
-    "telegraf": "^4.4.2"
+    "telegraf": "^3.33.3"
   }
 }
