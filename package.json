@@ -10,5 +10,8 @@
     "[]"
   ],
   "author": "FrogasQ",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "telegraf": "^4.4.2"
+  }
 }
