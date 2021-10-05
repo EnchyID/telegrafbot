@@ -6,9 +6,6 @@
   "scripts": {
     "test": "node index.js"
   },
-  "keywords": [
-    "[]"
-  ],
   "author": "FrogasQ",
   "license": "ISC",
   "dependencies": {
