@@ -1,0 +1,14 @@
+{
+  "name": "TelegrafBot",
+  "version": "1.0.0",
+  "description": "TelegrafBot",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "FrogasQ",
+  "license": "ISC"
+}
